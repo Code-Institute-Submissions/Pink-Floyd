@@ -25,7 +25,8 @@
 
 .sign-up {
     background-color: #F12320;
-    color: #fafafa;
+    font-family: "Rubik", sans-serif;
+    color: black;
     text-align: right;
     position: absolute;
     top: 20px;
@@ -64,14 +65,14 @@
 }
 .menuitem span {
     padding-top: 5px;
-    font-family: "Lato", sans-serif;
+    font-family: "Rubik", sans-serif;
     width: 100%;
     font-weight: 300;
 }
 
 .inline-block {
-    display: inline-block;
-}
+    display: inline;
+} 
 
 /*--------------------------Colours*/
 
@@ -100,3 +101,44 @@
     background-color: #A204FF;
 }
 
+/*------------------------Footer*/
+
+.footer {
+    margin: 0;
+    min-height: 100px;
+    background-color: #302e2e;
+    position: relative;
+    display: block;
+}
+
+.text-decoration {
+    padding-top: 15px;
+    font-family: "Rubik";
+    font-weight: 400;
+    color: #fafafa;
+    text-align: left;
+    max-width: 300px;
+}
+
+.text-decoration p {
+    font-size: 14px;
+}
+
+.social-icons {
+    padding-bottom: 50px;
+}
+
+.social-icons li {
+    padding: 5px;
+    margin-top: 39px;
+}
+
+.social-icons li a i {
+    color: #fafafa;
+    width: 40px;
+    height: 40px;
+    padding: 0;
+    border-radius: 40px;
+    font-size: 14px;
+    text-align: left;
+}
