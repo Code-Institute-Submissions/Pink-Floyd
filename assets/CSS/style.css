@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap:100,200,300,400,500,600,700,800|Lato:100,200,300,400,500,600,700,800');
+
+/*-----------------------------header*/
+.padding-adjustment {
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+.relative {
+    position: relative;
+}
+
+.hero-banner {
+    background: url("../images/Dark side of the moon.jpeg");
+    background-repeat: no-repeat;
+    background-position-y: 30%; 
+    background-position-x: 50%;
+    background-size: cover;
+    height: 600px;
+    transition: all .8s ease-in-out;
+    -moz-transition: all .8s ease-in-out;
+    -webkit-transition: all .8s ease-in-out;
+} 
+
+
+.sign-up {
+    background-color: #F12320;
+    color: #fafafa;
+    text-align: right;
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    z-index: 1;
+} 
+
+.list-inline-item:not(:last-child) {
+    margin: 0;
+}
+
+.menucontainer {
+    font-size: 0;
+}
+
+#nav li {
+    font-size: 18px;
+}
+
+.menuitem {
+    height: 80px;
+    text-align: center;
+}
+
+.menuitem a {
+    text-decoration: none;
+    color: black;
+    height: 80px;
+}
+
+.menuitem a i {
+    padding-top: 15px;
+    display: block;
+    color: black;
+    font-size: 24px;
+}
+.menuitem span {
+    padding-top: 5px;
+    font-family: "Lato", sans-serif;
+    width: 100%;
+    font-weight: 300;
+}
+
+.inline-block {
+    display: inline-block;
+}
+
+/*--------------------------Colours*/
+
+
+.bg-colour-home {
+    background-color: #F12320;
+}
+
+.bg-colour-band {
+    background-color: #FC551A;
+}
+
+.bg-colour-music {
+    background-color: #FCFF00;
+}
+
+.bg-colour-shop {
+    background-color: #4A7F02;
+}
+
+.bg-colour-tours {
+    background-color: #009BBE;
+}
+
+.bg-colour-sign-up {
+    background-color: #A204FF;
+}
+
