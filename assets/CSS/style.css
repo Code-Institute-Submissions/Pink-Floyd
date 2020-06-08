@@ -2,8 +2,7 @@
 
 /*-----------------------------header*/
 .padding-adjustment {
-    padding-right: 0px;
-    padding-left: 0px;
+    padding: 0;
 }
 
 .relative {
@@ -13,8 +12,7 @@
 .hero-banner {
     background: url("../images/Dark side of the moon.jpeg");
     background-repeat: no-repeat;
-    background-position-y: 30%; 
-    background-position-x: 50%;
+    background-position: center;
     background-size: cover;
     height: 600px;
     transition: all .8s ease-in-out;
@@ -24,7 +22,7 @@
 
 
 .sign-up {
-    background-color: #F12320;
+    background-color: #A204FF;
     font-family: "Rubik", sans-serif;
     color: black;
     text-align: right;
@@ -74,8 +72,37 @@
     display: inline;
 } 
 
-/*--------------------------Colours*/
+/*---------------------General*/
 
+.storyboard {
+    margin-top: 25px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.storyboard a {
+    text-decoration: none;
+}
+
+.storyboard h4 {
+    margin-top: 20px;
+    font-family: "Rubik", sans-serif;
+    width: 100%;
+    font-weight: 300;
+    color: black;
+}
+
+.storyboard a:hover {
+    color: rgba(rgb(90, 89, 89), green, blue, 0.25);
+}
+
+.image-clean {
+    width: 300;
+    height: 300;
+    border-radius: 50%;
+}
+
+/*--------------------------Colours*/
 
 .bg-colour-home {
     background-color: #F12320;
@@ -85,20 +112,51 @@
     background-color: #FC551A;
 }
 
+.band-border {
+    border-color: #FC551A;
+    padding: 25px;
+    border-radius: 5px;
+}
+
 .bg-colour-music {
     background-color: #FCFF00;
+}
+
+.music-border {
+    border-color: #FCFF00;
+    padding: 25px;
+    border-radius: 5px;
 }
 
 .bg-colour-shop {
     background-color: #4A7F02;
 }
 
+.shop-border {
+    border-color:#4A7F02;
+    padding: 25px;
+    border-radius: 5px;
+
+}
+
 .bg-colour-tours {
     background-color: #009BBE;
 }
 
+.tours-border {
+    padding: 25px;
+    border-color: #009BBE;
+    border-radius: 5px;
+}
+
 .bg-colour-sign-up {
     background-color: #A204FF;
+}
+
+.sign-up-border {
+    padding: 25px;
+    border-color: #A204FF;
+    border-radius: 5px;
 }
 
 /*------------------------Footer*/
@@ -135,10 +193,10 @@
 
 .social-icons li a i {
     color: #fafafa;
-    width: 40px;
-    height: 40px;
+    width: 35px;
+    height: 35px;
     padding: 0;
-    border-radius: 40px;
+    border-radius: 35px;
     font-size: 14px;
     text-align: left;
 }
