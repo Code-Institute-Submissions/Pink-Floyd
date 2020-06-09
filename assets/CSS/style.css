@@ -74,6 +74,10 @@
 
 /*---------------------General*/
 
+.the-band {
+    display: block;
+}
+
 .storyboard {
     margin-top: 25px;
     margin-bottom: 30px;
@@ -182,13 +186,14 @@
 
 .album-icons li a i {
     color: black;
-    width: 35px;
-    height: 35px;
+    width: 55px;
+    height: 55px;
     padding: 0;
     border-radius: 35px;
     font-size: 24px;
     text-align: left;
 }
+
 
 .album-heading {
     padding: 5px;
@@ -196,37 +201,47 @@
 }
 
 .dark-side-of-the-moon {
-    border: solid #F12320 1px;
     background-color: #F12320;
     padding: 20px;
+    background-image: linear-gradient(white, #F12320, white)
 }
 
 .echoes {
-    border: solid #A204FF 1px;
-    background-color:  #A204FF;
+    background-color: #A204FF;
     padding: 20px;
+    background-image: linear-gradient(white, #A204FF, white);
 }
 
 .wish-you-were-here {
-    border:  #FC551A;
     background-color:  #FC551A;
     padding: 20px;
+    background-image: linear-gradient(white,#FC551A,white);
 }
 
 .the-wall {
-    border: #FCFF00;
     background-color: #FCFF00;
     padding: 20px;
+    background-image: linear-gradient(white,#FCFF00,white);
 }
 
 .animals {
-    border:#4A7F02;
     background-color:#4A7F02;
     padding: 20px;
+    background-image: linear-gradient(white,#4A7F02,white);
 }
 
 .division-bell {
-    border:#009BBE;
     background-color: #009BBE;
     padding: 20px;
+    background-image: linear-gradient(white,#009BBE,white);
+}
+
+.text-quotes {
+    padding-bottom: 5px;
+    font-family: "Rubik";
+    font-weight: 300;
+    color: black;
+    text-align: left;
+    text-transform: none;
+    font-size: 14px;
 }
