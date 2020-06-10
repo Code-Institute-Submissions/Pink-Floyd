@@ -98,6 +98,12 @@
 
 /*--------------------------Colours*/
 
+.prism {
+    background-color: #F12320;
+    padding: 20px;
+    background-image: linear-gradient(white, #F12320, #FC551A, #FCFF00, #4A7F02, #009BBE, #A204FF, white);
+}
+
 .bg-colour-home {
     background-color: #F12320;
 }
@@ -122,12 +128,65 @@
     background-color: #A204FF;
 }
 
-.prism {
+.dark-side-of-the-moon {
     background-color: #F12320;
     padding: 20px;
-    background-image: linear-gradient(white, #F12320, #FC551A, #FCFF00, #4A7F02, #009BBE, #A204FF, white);
+    background-image: linear-gradient(white, #F12320, white);
 }
 
+.echoes {
+    background-color: #A204FF;
+    padding: 20px;
+    background-image: linear-gradient(white, #A204FF, white);
+}
+
+.wish-you-were-here {
+    background-color:  #FC551A;
+    padding: 20px;
+    background-image: linear-gradient(white,#FC551A,white);
+}
+
+.the-wall {
+    background-color: #FCFF00;
+    padding: 20px;
+    background-image: linear-gradient(white,#FCFF00,white);
+}
+
+.animals {
+    background-color:#4A7F02;
+    padding: 20px;
+    background-image: linear-gradient(white,#4A7F02,white);
+}
+
+.division-bell {
+    background-color: #009BBE;
+    padding: 20px;
+    background-image: linear-gradient(white,#009BBE,white);
+}
+
+.main-background {
+    background-image: url("../images/PF-Jumbotron.png");
+}
+
+.jumbotron {
+    background-image: url("../images/PF-Jumbotron.png");
+}
+
+.btn-success {
+    background-color:#4A7F02;
+    color: black;
+}
+
+/*------------------------Jumbotron*/
+
+.announcement {
+    text-align: center;
+    display: inline;
+    font-family: "Rubik", sans-serif;
+    font-weight: 700;
+    padding: 0;
+    margin: 0;
+}
 
 /*------------------------Footer*/
 
@@ -199,42 +258,6 @@
 .band-members {
     padding-left: 20px;
     padding-right: 20px;
-}
-
-.dark-side-of-the-moon {
-    background-color: #F12320;
-    padding: 20px;
-    background-image: linear-gradient(white, #F12320, white);
-}
-
-.echoes {
-    background-color: #A204FF;
-    padding: 20px;
-    background-image: linear-gradient(white, #A204FF, white);
-}
-
-.wish-you-were-here {
-    background-color:  #FC551A;
-    padding: 20px;
-    background-image: linear-gradient(white,#FC551A,white);
-}
-
-.the-wall {
-    background-color: #FCFF00;
-    padding: 20px;
-    background-image: linear-gradient(white,#FCFF00,white);
-}
-
-.animals {
-    background-color:#4A7F02;
-    padding: 20px;
-    background-image: linear-gradient(white,#4A7F02,white);
-}
-
-.division-bell {
-    background-color: #009BBE;
-    padding: 20px;
-    background-image: linear-gradient(white,#009BBE,white);
 }
 
 .text-quotes {
