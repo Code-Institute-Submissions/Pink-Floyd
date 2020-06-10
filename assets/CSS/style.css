@@ -90,6 +90,12 @@
     width: 100%;
     font-weight: 300;
     color: black;
+    text-align: center;
+}
+
+.storyboard blockquote {
+    text-align: center;
+    font-weight: 400;
 }
 
 .storyboard a:hover {
@@ -179,6 +185,13 @@
 
 /*------------------------Jumbotron*/
 
+.store-reminder {
+    background-image: url("../images/PF-Jumbotron.png");
+    text-align: center;
+    max-height: 150px;
+    padding-bottom: 15px;
+}
+
 .announcement {
     text-align: center;
     display: inline;
@@ -256,6 +269,11 @@
 }
 
 .band-members {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.band-members  {
     padding-left: 20px;
     padding-right: 20px;
 }
