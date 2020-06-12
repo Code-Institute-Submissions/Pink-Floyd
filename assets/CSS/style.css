@@ -177,17 +177,25 @@
 
 .btn-success {
     background-color:#4A7F02;
+    border: #4A7F02;
     color: black;
+}
+
+.subscribe-btn {
+    background-color: #A204FF;
+    border: #A204FF;
+    color: black;
+    margin-top: 8px;
 }
 
 /*------------------------Jumbotron*/
 
+.store-reminder,
 .jumbotron {
     background-image: url("../images/PF-Jumbotron.png");
 }
 
 .store-reminder {
-    background-image: url("../images/PF-Jumbotron.png");
     text-align: center;
     max-height: 150px;
     padding-bottom: 15px;
@@ -329,11 +337,19 @@
         display: block;
     }
 
-    .form-align input {
+}
+
+@media (max-width: 576px) {
+
+    .form-align {
+        display: inline;
+        margin: auto;
+        padding-bottom: 10px;
         position: relative;
     }
 
+     .form-align input {
+        position: initial;
+    }
+
 }
-
-
-     
