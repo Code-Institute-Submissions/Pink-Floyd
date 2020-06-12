@@ -85,7 +85,8 @@
 }
 
 .storyboard h4 {
-    margin-top: 20px;
+    margin-top: 5px;
+    margin-bottom: 10px;
     font-family: "Rubik", sans-serif;
     width: 100%;
     font-weight: 300;
@@ -174,16 +175,16 @@
     background-image: url("../images/PF-Jumbotron.png");
 }
 
-.jumbotron {
-    background-image: url("../images/PF-Jumbotron.png");
-}
-
 .btn-success {
     background-color:#4A7F02;
     color: black;
 }
 
 /*------------------------Jumbotron*/
+
+.jumbotron {
+    background-image: url("../images/PF-Jumbotron.png");
+}
 
 .store-reminder {
     background-image: url("../images/PF-Jumbotron.png");
@@ -199,6 +200,30 @@
     font-weight: 700;
     padding: 0;
     margin: 0;
+}
+
+.subscribe {
+    padding: 10px;
+    display: block;
+    text-align: center;
+}
+
+.form-align {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: 225px;
+    text-align: left;
+    padding-bottom: 10px;
+    position: relative;
+}
+
+.form-align label {
+    padding: 5px;
+}
+
+.form-align input {
+    position: absolute;
+    left: 100px;
 }
 
 /*------------------------Footer*/
@@ -242,15 +267,19 @@
     font-size: 14px;
     text-align: left;
 }
+
+.personal-icons,
 .album-icons {
     padding-bottom: 10px;
 }
 
+.personal-icons li,
 .album-icons li {
     padding: 0;
     margin-top: 9px;
 }
 
+.personal-icons li a i,
 .album-icons li a i {
     color: black;
     width: 55px;
@@ -259,6 +288,10 @@
     border-radius: 35px;
     font-size: 24px;
     text-align: left;
+}
+
+.personal-icons li a i {
+    text-align: center;
 }
 
 .album-heading {
@@ -273,9 +306,12 @@
     padding-right: 20px;
 }
 
-.band-members  {
-    padding-left: 20px;
-    padding-right: 20px;
+.band-members h4, p {
+    padding: 10px;
+}
+
+.band-members img {
+    margin-bottom: 20px;
 }
 
 .text-quotes {
@@ -283,7 +319,7 @@
     font-family: "Rubik";
     font-weight: 300;
     color: black;
-    text-align: left;
+    text-align: center;
     text-transform: none;
     font-size: 14px;
 }
@@ -293,8 +329,8 @@
         display: block;
     }
 
-    blockquote li a {
-        display: inline;
+    .form-align input {
+        position: relative;
     }
 
 }

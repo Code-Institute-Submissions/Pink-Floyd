@@ -48,16 +48,21 @@
                 <div class="col jumbotron">
                     <h3 class="text-uppercase">Sign Up to our mailing list!</h3>
                     <p>Please fill in a few details to get all the latest news from Pink Floyd</p>
-                    <form >
-                        
-                        <label for="name"><p>Name</p></label>
-                        <input type="text" placeholder="Name" name="Name" required>
+                    <div class="subscribe">
+                        <form class="form-align" method="post">
 
-                        <label for="email"><p>Email</p></label>
-                        <input type="text" placeholder="Email Address" name="Email" required>
-                        
-                    </form>
-                    <a class="btn btn-success btn-lg" target="_blank" href="https://shop.pinkfloyd.com/store/" role="button">Visit Us</a>
+                            <label for="firstname"><b>First Name:</b></label>
+                            <input type="text" placeholder="Enter First Name" name="First Name" required>
+                            <br>
+                            <label for="secondname"><b>Surname:</b></label>
+                            <input type="text" placeholder="Enter Second Name" name="Second Name" required>
+                            <br>
+                            <label for="email"><b>Email:</b></label>
+                            <input type="text" placeholder="Enter Email Address" name="Email" required>
+                       
+                        </form>
+                    </div>    
+                    <a class="btn btn-success btn-lg" role="button" type="submit">Subscribe</a>
                 </div>
             </div>
         </div>
