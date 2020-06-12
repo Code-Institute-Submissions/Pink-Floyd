@@ -175,7 +175,7 @@
     background-image: url("../images/PF-Jumbotron.png");
 }
 
-.btn-success {
+.btn-shop {
     background-color:#4A7F02;
     border: #4A7F02;
     color: black;
@@ -184,6 +184,13 @@
 .subscribe-btn {
     background-color: #A204FF;
     border: #A204FF;
+    color: black;
+    margin-top: 8px;
+}
+
+.btn-tour {
+    background-color: #009BBE;
+    border: #009BBE;
     color: black;
     margin-top: 8px;
 }
@@ -331,6 +338,19 @@
     text-transform: none;
     font-size: 14px;
 }
+
+.table-contents {
+    padding-bottom: 5px;
+    font-family: "Rubik";
+    font-weight: 300;
+    color: black;
+    text-align: center;
+    font-size: 20px;
+}
+
+.table-contents tbody {
+    font-size: 18px;
+}
    
 @media (max-width: 992px) {
     .media {
@@ -342,7 +362,7 @@
 @media (max-width: 576px) {
 
     .form-align {
-        display: inline;
+        display: inline-grid;
         margin: auto;
         padding-bottom: 10px;
         position: relative;
@@ -352,4 +372,12 @@
         position: initial;
     }
 
+}
+
+@media (max-width: 498px) {
+    
+    .jumbotron iframe {
+        width: 336; 
+        height: 189;
+    }
 }
