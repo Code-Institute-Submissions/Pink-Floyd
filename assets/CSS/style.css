@@ -74,6 +74,10 @@
 
 /*---------------------General*/
 
+.margin-adjustment {
+    margin-left: 0;
+}
+
 .storyboard {
     margin-top: 25px;
     margin-bottom: 30px;
@@ -376,7 +380,7 @@
 
 @media (max-width: 498px) {
     
-    .jumbotron iframe {
+    .jumbotron > iframe {
         width: 336; 
         height: 189;
     }
