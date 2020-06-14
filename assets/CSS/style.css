@@ -1,11 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap:100,200,300,400,500,600,700,800|Lato:100,200,300,400,500,600,700,800');
 
 /*-----------------------------header*/
-.padding-adjustment {
+.menu-align {
     padding: 0;
 }
 
-.relative {
+.banner {
     position: relative;
 }
 
@@ -19,7 +19,6 @@
     -moz-transition: all .8s ease-in-out;
     -webkit-transition: all .8s ease-in-out;
 } 
-
 
 .sign-up {
     background-color: #A204FF;
@@ -47,6 +46,8 @@
 .menuitem {
     height: 80px;
     text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 3px;
 }
 
 .menuitem a {
@@ -66,6 +67,10 @@
     font-family: "Rubik", sans-serif;
     width: 100%;
     font-weight: 300;
+}
+
+.menuitem:hover {
+    background-color: rgba(66,66,66, 0.1)
 }
 
 .inline-block {
@@ -99,8 +104,8 @@
     font-weight: 400;
 }
 
-.storyboard a:hover {
-    color: rgba(rgb(90, 89, 89), green, blue, 0.25);
+.storyboard a i:hover {
+    color: rgba (66, 66, 66, 0.1);
 }
 
 /*--------------------------Colours*/
@@ -351,6 +356,35 @@
 .table-contents tbody {
     font-size: 18px;
 }
+
+/*---------Youtube iframe responsiveness--*/
+
+.content-wrapper{
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+.iframe-wrapper{
+  width: 100%;
+  position: relative;
+}
+
+.res-4by3{
+  padding-bottom: 75%;
+}
+
+.res-16by9{
+  padding-bottom: 56.25%;
+}
+
+.iframe-wrapper iframe{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: none;
+}
    
 @media (max-width: 992px) {
     .media {
@@ -368,12 +402,13 @@
         position: relative;
     }
 
-     .form-align input {
+    .form-align input {
         position: initial;
     }
 
     .margin-adjustment {
-    margin-right: 0;
-    margin-left: 0;
+        margin-right: 0;
+        margin-left: 0;
+    }
 }
 
