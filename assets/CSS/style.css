@@ -29,7 +29,14 @@
     top: 20px;
     right: 20px;
     z-index: 1;
+    letter-spacing: 2px;
 } 
+
+.sign-up:hover {
+    background-color: #1f1e1e;
+    color: #fafafa;
+    
+}
 
 .list-inline-item:not(:last-child) {
     margin: 0;
@@ -100,7 +107,8 @@
     text-decoration: none;
 }
 
-.storyboard h4 {
+.storyboard h4,
+.storyboard h3 {
     margin-top: 5px;
     margin-bottom: 10px;
     font-family: "Rubik", sans-serif;
@@ -155,6 +163,10 @@
     border-radius: 35px;
     font-size: 24px;
     text-align: center;
+}
+
+.centred-values {
+    padding: 20px;
 }
 
 /*--------------------------Colours*/
@@ -242,6 +254,10 @@
     margin-top: 8px;
 }
 
+.subscribe-btn:hover {
+    color: rgba(66,66,66, 0.2);
+}
+
 .btn-tour {
     background-color: #009BBE;
     border: #009BBE;
@@ -296,6 +312,16 @@
     font-weight: 700;
     padding: 0;
     margin: 0;
+}
+
+.home-announcement {
+    text-align: center;
+    font-family: "Rubik", sans-serif;
+    font-weight: 575;
+    padding: 0;
+    margin: 0;
+    text-transform: none;
+    letter-spacing: 0;
 }
 
 .table-contents {
