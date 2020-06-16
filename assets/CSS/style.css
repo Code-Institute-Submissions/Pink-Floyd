@@ -273,6 +273,9 @@
     color:  #A204FF;
 }
 
+.fa-amazon:hover {
+    color: #A204FF;
+}
 /*----------------------Jumbotron--*/
 
 .store-reminder,
@@ -348,7 +351,7 @@
 }
 
 .text-decoration {
-    padding-top: 15px;
+    padding: 15px;
     font-family: "Rubik";
     font-weight: 400;
     color: #fafafa;
@@ -425,11 +428,12 @@
 }
 
 .soundcloud-iframe {
-    width: 100%;
+    max-width: 600px;
 }
 
 .soundcloud-iframe iframe {
     border: none;
+    width: 100%;
 }
    
 /*--------------Media-Quieries---*/
