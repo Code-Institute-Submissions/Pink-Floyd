@@ -70,7 +70,7 @@
 }
 
 .menuitem:hover {
-    background-color: rgba(66,66,66, 0.1)
+    background-color: rgba(66,66,66, 0.1);
 }
 
 .inline-block {
@@ -153,9 +153,9 @@
 }
 
 .wish-you-were-here {
-    background-color:  #FC551A;
+    background-color:  #009BBE;
     padding: 20px;
-    background-image: linear-gradient(white,#FC551A,white);
+    background-image: linear-gradient(white,#009BBE,white);
 }
 
 .the-wall {
@@ -171,9 +171,9 @@
 }
 
 .division-bell {
-    background-color: #009BBE;
+    background-color: #FC551A;
     padding: 20px;
-    background-image: linear-gradient(white,#009BBE,white);
+    background-image: linear-gradient(white,#FC551A,white);
 }
 
 .main-background {
@@ -344,6 +344,8 @@
     font-size: 14px;
 }
 
+
+
 .table-contents {
     padding-bottom: 5px;
     font-family: "Rubik";
@@ -384,6 +386,19 @@
   width: 100%;
   height: 100%;
   border: none;
+}
+
+.soundcloud-content {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.soundcloud-iframe {
+    width: 100%;
+}
+
+.soundcloud-iframe iframe {
+    border: none;
 }
    
 @media (max-width: 992px) {
