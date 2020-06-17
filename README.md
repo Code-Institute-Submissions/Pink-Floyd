@@ -99,7 +99,7 @@ This is the official website for Pink Floyd. It is designed to be responsive and
 
 * I had to resize the YouTube iframe because it was not resposive. Not being able to use Javascript, to do this I used some code from (with the guidance of my mentor, Gerry) a 
 <a href="https://stackoverflow.com/questions/7737557/how-can-i-make-the-youtube-player-scale-to-the-width-of-the-page-but-also-keep-t">Stack Overflow</a> post. The HTML Validator
-also highlighted that the soundcloud iframe's were not written as they should be and that they features "frameborder" and "scrolling" that were now obsolete. I removed these from
+also highlighted that the soundcloud iframe's were not written as they should be and that they featured "frameborder" and "scrolling" that were now obsolete. I removed these from
 the iframe which then left a border. I used the same code used from the Youtube code as the basis of getting rid of this border. 
 
 * I used what I had learnt from the resume project to build my navigation bar. Once the idea of doing a band was presented in the introductory milestone project notes, i immediately 
