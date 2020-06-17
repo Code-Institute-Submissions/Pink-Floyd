@@ -30,27 +30,27 @@ This is the official website for Pink Floyd. It is designed to be responsive and
 
     * Home page wire frame 
     <p align="center">
-    <img height="350" src="..assets/Wireframes/Home-Page.png" alt="Home-page-wireframe">
+    <img height="350" src="assets/Wireframes/Home-Page.png" alt="Home-page-wireframe">
     </p>
     * Band wire frame
     <p align="center"> 
-    <img height="350" src="..assets/Wireframes/Band.png" alt="Home-page-wireframe">
+    <img height="350" src="assets/Wireframes/Band.png" alt="Home-page-wireframe">
     </p>
     * Music wire frame
     <p align="center"> 
-    <img height="350" src="..assets/Wireframes/Music-Page.png" alt="Home-page-wireframe">
+    <img height="350" src="assets/Wireframes/Music-Page.png" alt="Home-page-wireframe">
     </p>
     * Shop wire frame 
     <p align="center">
-    <img height="350" src="..assets/Wireframes/Shop.png" alt="Home-page-wireframe">
+    <img height="350" src="assets/Wireframes/Shop.png" alt="Home-page-wireframe">
     </p>
     * Sign up wire frame 
     <p align="center">
-    <img height="350" src="..assets/Wireframes/Subscribe.png" alt="Home-page-wireframe">
+    <img height="350" src="assets/Wireframes/Subscribe.png" alt="Home-page-wireframe">
     </p>
     * Tours wire frame 
     <p align="center">
-    <img height="350" src="..assets/Wireframes/Tours.png" alt="Home-page-wireframe">
+    <img height="350" src="assets/Wireframes/Tours.png" alt="Home-page-wireframe">
     </p>    
 
 * Featured coding languages and Tools Used
