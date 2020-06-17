@@ -28,13 +28,31 @@ This is the official website for Pink Floyd. It is designed to be responsive and
         
 * Wireframes
 
-    * Home page wire frame <img height="350" src="assets/Wireframes/Home-Page.png" alt="Home-page-wireframe">
-    * Band wire frame <img height="350" src="assets/Wireframes/Band.png" alt="Home-page-wireframe">
-    * Music wire frame <img height="350" src="assets/Wireframes/Music-Page.png" alt="Home-page-wireframe">
-    * Shop wire frame <img height="350" src="assets/Wireframes/Shop.png" alt="Home-page-wireframe">
-    * Sign up wire frame <img height="350" src="assets/Wireframes/Subscribe.png" alt="Home-page-wireframe">
-    * Tours wire frame <img height="350" src="assets/Wireframes/Tours.png" alt="Home-page-wireframe">
-        
+    * Home page wire frame 
+    <p align="center">
+    <img height="350" src="assets/Wireframes/Home-Page.png" alt="Home-page-wireframe">
+    </p>
+    * Band wire frame
+    <p align="center"> 
+    <img height="350" src="assets/Wireframes/Band.png" alt="Home-page-wireframe">
+    </p>
+    * Music wire frame
+    <p align="center"> 
+    <img height="350" src="assets/Wireframes/Music-Page.png" alt="Home-page-wireframe">
+    </p>
+    * Shop wire frame 
+    <p align="center">
+    <img height="350" src="assets/Wireframes/Shop.png" alt="Home-page-wireframe">
+    </p>
+    * Sign up wire frame 
+    <p align="center">
+    <img height="350" src="assets/Wireframes/Subscribe.png" alt="Home-page-wireframe">
+    </p>
+    * Tours wire frame 
+    <p align="center">
+    <img height="350" src="assets/Wireframes/Tours.png" alt="Home-page-wireframe">
+    </p>    
+
 * Featured coding languages and Tools Used
     
     *HTML5
@@ -50,6 +68,6 @@ This is the official website for Pink Floyd. It is designed to be responsive and
     
 * The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
-    1. W3C Markup Validator - Results (https://validator.w3.org/nu/#textarea)
+    1. W3C Markup Validator - Results
     2. W3C CSS Validator - Results
         
