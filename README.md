@@ -98,7 +98,7 @@ This is the official website for Pink Floyd. It is designed to be responsive and
 ## Credits
 
 * I had to resize the YouTube iframe because it was not resposive. Not being able to use Javascript, to do this I used some code from (with the guidance of my mentor, Gerry) a 
-<a href="https://stackoverflow.com/questions/7737557/how-can-i-make-the-youtube-player-scale-to-the-width-of-the-page-but-also-keep-t">Stack Overflow</a>post. The HTML Validator
+<a href="https://stackoverflow.com/questions/7737557/how-can-i-make-the-youtube-player-scale-to-the-width-of-the-page-but-also-keep-t">Stack Overflow</a> post. The HTML Validator
 also highlighted that the soundcloud iframe's were not written as they should be and that they features "frameborder" and "scrolling" that were now obsolete. I removed these from
 the iframe which then left a border. I used the same code used from the Youtube code as the basis of getting rid of this border. 
 
@@ -107,3 +107,6 @@ thought of creating the navigation bar in the same way so that i could play with
 
 * I used google dev tools heavily to get the sign-up jumbotron to align properly on all screens. I had to play about with it in phone view to get the right "display" field to make it 
 align properly. 
+
+* I used the <a href="https://www.bootstrapcdn.com/">Bootstrap</a> library a lot for guidance on grid settings, using offsets properly for the home page and buttons. 
+
