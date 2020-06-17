@@ -294,15 +294,8 @@
 }
 /*----------------------Jumbotron--*/
 
-.store-reminder,
 .jumbotron {
     background-image: url("../images/PF-Jumbotron.png");
-}
-
-.store-reminder {
-    text-align: center;
-    max-height: 150px;
-    padding: 15px;
 }
 
 .announcement {
@@ -401,12 +394,12 @@
 }
 
 .social-icons {
-    padding-top: 15px;
+    padding-top: 10px;
 }
 
 .social-icons li {
     padding: 5px;
-    margin-top: 39px;
+    margin-top: 29px;
 }
 
 .social-icons li a i {
@@ -416,7 +409,7 @@
     padding: 0;
     border-radius: 35px;
     font-size: 18px;
-    text-align: left;
+    text-align: center;
 }
 
 /*-----Youtube / Soundcloud iframe responsiveness--*/
