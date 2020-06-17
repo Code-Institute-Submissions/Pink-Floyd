@@ -30,27 +30,27 @@ This is the official website for Pink Floyd. It is designed to be responsive and
 
     * Home page wire frame 
     <p align="center">
-    <img height="350" src="assets/Wireframes/Home-Page.png" alt="Home-page-wireframe">
+    <img height="350" src="..assets/Wireframes/Home-Page.png" alt="Home-page-wireframe">
     </p>
     * Band wire frame
     <p align="center"> 
-    <img height="350" src="assets/Wireframes/Band.png" alt="Home-page-wireframe">
+    <img height="350" src="..assets/Wireframes/Band.png" alt="Home-page-wireframe">
     </p>
     * Music wire frame
     <p align="center"> 
-    <img height="350" src="assets/Wireframes/Music-Page.png" alt="Home-page-wireframe">
+    <img height="350" src="..assets/Wireframes/Music-Page.png" alt="Home-page-wireframe">
     </p>
     * Shop wire frame 
     <p align="center">
-    <img height="350" src="assets/Wireframes/Shop.png" alt="Home-page-wireframe">
+    <img height="350" src="..assets/Wireframes/Shop.png" alt="Home-page-wireframe">
     </p>
     * Sign up wire frame 
     <p align="center">
-    <img height="350" src="assets/Wireframes/Subscribe.png" alt="Home-page-wireframe">
+    <img height="350" src="..assets/Wireframes/Subscribe.png" alt="Home-page-wireframe">
     </p>
     * Tours wire frame 
     <p align="center">
-    <img height="350" src="assets/Wireframes/Tours.png" alt="Home-page-wireframe">
+    <img height="350" src="..assets/Wireframes/Tours.png" alt="Home-page-wireframe">
     </p>    
 
 * Featured coding languages and Tools Used
@@ -68,6 +68,5 @@ This is the official website for Pink Floyd. It is designed to be responsive and
     
 * The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
-    1. W3C Markup Validator - Results
-    2. W3C CSS Validator - Results
+    1. W3C Markup Validator for HTML and CSS - <a href="https://github.com/DJWOOLLEY84/Milestone-Project-1/blob/3e0416ee7dda546269048bfb5381be2309fad3af/assets/Wireframes">Results</a> 
         
