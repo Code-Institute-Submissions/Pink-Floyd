@@ -95,6 +95,36 @@ This is the official website for Pink Floyd. It is designed to be responsive and
     * There was one possible bug found. In firefox, upon inspection at phone view it showed the table on the tours page as being unable to shrink to the size of the screen. A 
     cursor bar was provided to move the table left from right. However, when viewed on the apple phones I have tested this has not been the case.
 
+## Deployment
+
+* The project was deployed to GitHub Pages using the following steps...
+    1. Log in to GitHub and locate the GitHub Repository
+    2. Find the "Settings" Button on the menu at the top of the Repository.
+    3. Scroll down the Settings page until you locate the "GitHub Pages" Section.
+    4. Under "Source", click the dropdown called "None" and select "Master Branch".
+    5. The page will automatically refresh.
+    6. Scroll back down through the page to locate the now published site link in the "GitHub Pages" section.
+
+
+### Forking the GitHub Repository
+
+* By forking the GitHub Repository we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original repository by using the following steps...
+    1. Log in to GitHub and locate the GitHub Repository
+    2. At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button.
+    3. You should now have a copy of the original repository in your GitHub account.
+
+* Making a Local Clone
+    1. Log in to GitHub and locate the GitHub Repository
+    2. Under the repository name, click "Clone or download".
+    3. To clone the repository using HTTPS, under "Clone with HTTPS", copy the link.
+    4. Open Git Bash
+    5. Change the current working directory to the location where you want the cloned directory to be made.
+    6. Type git clone, and then paste the URL you copied in Step 3.
+
+    $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+
+    7. Press Enter. Your local clone will be created.
+
 ## Credits
 
 * I had to resize the YouTube iframe because it was not resposive. Not being able to use Javascript, to do this I used some code from (with the guidance of my mentor, Gerry) a 
