@@ -88,3 +88,22 @@ This is the official website for Pink Floyd. It is designed to be responsive and
         prompt at the bottom of the page to let people know there is more available from there.
         4. All cta buttons on each separate page of the side are colour coded to match the navigation bar. I.E the tours page "BUY NOW" button is colour coded #009BBE blue to 
         the colour assigned to the page from the navigation bar which came from the dark side of the moon album cover. 
+
+* Testing screen sizes and browsers
+    * The site was tested through google, firefox and microsoft edge on two lap tops of differing sizes. An iphone 7,8 and X have been used to show how the site visualizes on 
+    phones.
+    * There was one possible bug found. In firefox, upon inspection at phone view it showed the table on the tours page as being unable to shrink to the size of the screen. A 
+    cursor bar was provided to move the table left from right. However, when viewed on the apple phones I have tested this has not been the case.
+
+## Credits
+
+* I had to resize the YouTube iframe because it was not resposive. Not being able to use Javascript, to do this I used some code from (with the guidance of my mentor, Gerry) a 
+<a href="https://stackoverflow.com/questions/7737557/how-can-i-make-the-youtube-player-scale-to-the-width-of-the-page-but-also-keep-t">Stack Overflow</a>post. The HTML Validator
+also highlighted that the soundcloud iframe's were not written as they should be and that they features "frameborder" and "scrolling" that were now obsolete. I removed these from
+the iframe which then left a border. I used the same code used from the Youtube code as the basis of getting rid of this border. 
+
+* I used what I had learnt from the resume project to build my navigation bar. Once the idea of doing a band was presented in the introductory milestone project notes, i immediately 
+thought of creating the navigation bar in the same way so that i could play with the colours of the pink floyd album cover through the site.
+
+* I used google dev tools heavily to get the sign-up jumbotron to align properly on all screens. I had to play about with it in phone view to get the right "display" field to make it 
+align properly. 
