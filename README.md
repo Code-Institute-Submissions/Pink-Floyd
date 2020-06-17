@@ -86,4 +86,5 @@ This is the official website for Pink Floyd. It is designed to be responsive and
         2. A sign-up page has been created so that people can sign up to the mailing list for all the latest news from Pink Floyd.
         3. A shop page has been created to show _some_ of the pink floyd merchandise available. Prompts are given to buy from the new web-store (another web-site) with another
         prompt at the bottom of the page to let people know there is more available from there.
-        4. All cta buttons on each separate page of the side are colour coded to match the navigation bar. I.E the tours page  
+        4. All cta buttons on each separate page of the side are colour coded to match the navigation bar. I.E the tours page "BUY NOW" button is colour coded #009BBE blue to 
+        the colour assigned to the page from the navigation bar which came from the dark side of the moon album cover. 
