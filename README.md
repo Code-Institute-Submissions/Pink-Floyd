@@ -110,3 +110,6 @@ align properly.
 
 * I used the <a href="https://www.bootstrapcdn.com/">Bootstrap</a> library a lot for guidance on grid settings, using offsets properly for the home page and buttons. 
 
+* I also had to google how to fade colours in and out (for the band and music pages) - this led me too a page on linear gradients on 
+<a href="https://www.w3schools.com/css/css3_gradients.asp">w3schools</a> where i saw code written and learnt how to use gradients, particularly linear gradients.
+
