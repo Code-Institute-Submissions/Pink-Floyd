@@ -9,8 +9,8 @@ This is the official website for Pink Floyd. It is designed to be responsive and
 * User Goals
 
     * New Users - 
-        1. I want to learn about the band and discover their music. I wwould like to hear their music and see a video of them playing
-        2. It should be easy for me to navigate the site and find out about this information
+        1. I want to learn about the band and discover their music. I would like to hear their music and see a video of them playing, 
+        it should be easy for me to navigate the site and find out about this information.
         3. I would like to be able to buy the bands music and want to know where I can get it.
         4. I should be able to follow Pink Floyds official social media channels to keep up to date with any new releases and tour information 
        
@@ -69,4 +69,21 @@ This is the official website for Pink Floyd. It is designed to be responsive and
 * The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
     1. W3C Markup Validator for HTML and CSS - <a href="https://github.com/DJWOOLLEY84/Milestone-Project-1/blob/3e0416ee7dda546269048bfb5381be2309fad3af/assets/Wireframes">Results</a> 
+
+* Testing User Goals
+
+    * New Users - 
+        1. You are greeted by a colourful navigation bar which is clearly labelled with additional icons for easy navigation. A story board area is the main feature 
+        of the page with links to click to see, the band, the music etc. The hero banner is an immediate indication that i am in the right place.
+        2. The band's music page shows 6 of their biggest albums with apple and amazon icons for people to click to purchase the music. Additional indicators are above these
+        icons to bring it to their attention
+        3. The bands offical social media channels are found in the footer on all pages of the website. Hover.css is used on these to let people know they can click on them. 
+        Hover.css goes throug all the colours of the dark side of the moon album cover rainbow to compliment the cover and navigation bar.
         
+    * Regular Users - 
+        1. A band members page has been created to show members of the band as they are now. Each band member also has a famous quote of theirs attributed to them and if they 
+        have any social media channels they are provided below the text. These also use hover.css in the same way.
+        2. A sign-up page has been created so that people can sign up to the mailing list for all the latest news from Pink Floyd.
+        3. A shop page has been created to show _some_ of the pink floyd merchandise available. Prompts are given to buy from the new web-store (another web-site) with another
+        prompt at the bottom of the page to let people know there is more available from there.
+        4. All cta buttons on each separate page of the side are colour coded to match the navigation bar. I.E the tours page  
