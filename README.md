@@ -2,7 +2,7 @@
 
 This is the official website for Pink Floyd. It is designed to be responsive and accessible on a range of devices to a large audience. It should be engaging and easy to explore and navigate through
 
-![](assets/images/Pink%20Floyd%20Preview.PNG)
+![](assets/images/pink-floyd-preview.png)
 
 ## UX
 

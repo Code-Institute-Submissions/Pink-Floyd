@@ -10,7 +10,7 @@
 }
 
 .hero-banner {
-    background: url("../images/Dark side of the moon.jpeg");
+    background: url("../images/dark-side-of-the-moon.jpeg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -251,7 +251,7 @@
 }
 
 .main-background {
-    background-image: url("../images/PF-Jumbotron.png");
+    background-image: url("../images/pf-jumbotron.png");
 }
 
 .btn-shop {
@@ -308,7 +308,7 @@
 /*----------------------Jumbotron--*/
 
 .jumbotron {
-    background-image: url("../images/PF-Jumbotron.png");
+    background-image: url("../images/pf-jumbotron.png");
 }
 
 .announcement {
