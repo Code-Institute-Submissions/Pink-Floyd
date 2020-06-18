@@ -103,8 +103,8 @@ This is the official website for Pink Floyd. It is designed to be responsive and
 ## Deployment
 
 * The project was deployed to GitHub Pages using the following steps...
-    1. Log in to GitHub and locate the GitHub Repository
-    2. Find the "Settings" Button on the menu at the top of the Repository.
+    1. Logged in to GitHub and located my Milestone-Project-1 Repository
+    2. Found the "Settings" Button on the menu at the top of the Repository page.
     3. Scroll down the Settings page until you locate the "GitHub Pages" Section.
     4. Under "Source", click the dropdown called "None" and select "Master Branch".
     5. The page will automatically refresh.
