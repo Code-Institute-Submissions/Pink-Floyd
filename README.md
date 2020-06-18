@@ -92,8 +92,13 @@ This is the official website for Pink Floyd. It is designed to be responsive and
 * Testing screen sizes and browsers
     * The site was tested through google, firefox and microsoft edge on two lap tops of differing sizes. An iphone 7,8 and X have been used to show how the site visualizes on 
     phones.
-    * There was one possible bug found. In firefox, upon inspection at phone view it showed the table on the tours page as being unable to shrink to the size of the screen. A 
+
+* Bugs    
+    * In firefox, upon inspection at phone view it showed the table on the tours page as being unable to shrink to the size of the screen. A 
     cursor bar was provided to move the table left from right. However, when viewed on the apple phones I have tested this has not been the case.
+    * When the site was deployed on Github none of the images loaded. After a bit of research on stack overflow I decided it would be best if I went back and renamed all the 
+    image files using all lower case and hyphens between each words. This did not change the problem. I then changed the file path directory from "../assets/images" to 
+    ".assets/images which did work and the issue was resolved after a couple of hard reloads.
 
 ## Deployment
 
